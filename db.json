@@ -1,130 +1,139 @@
 {
-"State": [
-{
-"statename": "Rajasthan",
-"confirmed": "954256",
-"recovered": "945869",
-"deceased": "8954",
-"tested": "1023568",
-"district": [
-{
-"city": "Jaipur",
-"confirmed": "23000",
-"recovered": "20000",
-"deaths": "3000"
-},
-{
-"city": "Udaipur",
-"confirmed": "10000",
-"recovered": "9500",
-"deaths": "500"
-}
-]
-},
-{
-"statename": "Punjab",
-"confirmed": "965878",
-"recovered": "745869",
-"deceased": "5006",
-"tested": "1023659",
-"district": [
-{
-"city": "Chandigarh",
-"confirmed": "5000",
-"recovered": "4600",
-"deaths": "400"
-},
-{
-"city": "Faridabad",
-"confirmed": "509",
-"recovered": "303",
-"deaths": "206"
-}
-]
-},
-{
-"statename": "Chennai",
-"confirmed": "1025698",
-"recovered": "245869",
-"deceased": "10565",
-"tested": "1205698",
-"district": [
-{
-"city": "Alandur",
-"confirmed": "2000",
-"recovered": "1956",
-"deaths": "44"
-},
-{
-"city": "Ambattur",
-"confirmed": "636",
-"recovered": "600",
-"deaths": "36"
-}
-]
-},
-{
-"statename": "Gujarat",
-"confirmed": "896458",
-"recovered": "815869",
-"deceased": "10089",
-"tested": "1789658",
-"district": [
-{
-"city": "Ahmedabad",
-"confirmed": "15000",
-"recovered": "12500",
-"deaths": "2500"
-},
-{
-"city": "Surat",
-"confirmed": "11590",
-"recovered": "10000",
-"deaths": "1590"
-}
-]
-},
-{
-"statename": "Maharashtra",
-"confirmed": "1526897",
-"recovered": "645869",
-"deceased": "25000",
-"tested": "2012659",
-"district": [
-{
-"city": "Mumbai",
-"confirmed": "25000",
-"recovered": "23000",
-"deaths": "2000"
-},
-{
-"city": "Nagpur",
-"confirmed": "8888",
-"recovered": "8500",
-"deaths": "388"
-}
-]
-},
-{
-"statename": "Delhi",
-"confirmed": "1489675",
-"recovered": "355869",
-"deceased": "17895",
-"tested": "1965896",
-"district": [
-{
-"city": "New Delhi",
-"confirmed": "13000",
-"recovered": "12100",
-"deaths": "900"
-},
-{
-"city": "Jafrabad",
-"confirmed": "1080",
-"recovered": "1050",
-"deaths": "30"
-}
-]
-}
-]
+	"State" :
+	[
+		{
+			"statename" : "Rajasthan",
+			"confirmed" : "954256",
+			"recovered" : "945869",
+			"deceased" : "8954",
+			"tested" : "1023568",
+			"district" : [
+				{
+					"city" : "Jaipur",
+					"confirmed" : "23000",
+					"recovered" : "20000",
+					"deaths"  : "3000" 
+				},
+				{
+					"city" : "Udaipur",
+					"confirmed" : "10000",
+					"recovered" : "9500",
+					"deaths"  : "500" 
+				}
+
+			]
+		},
+		{
+			"statename" : "Punjab",
+			"confirmed" : "965878",
+			"recovered" : "745869",
+			"deceased" : "5006",
+			"tested" : "1023659",
+			"district" : [
+				{
+					"city" : "Chandigarh",
+					"confirmed" : "5000",
+					"recovered" : "4600",
+					"deaths"  : "400" 
+				},
+				{
+					"city" : "Faridabad",
+					"confirmed" : "509",
+					"recovered" : "303",
+					"deaths"  : "206" 
+				}
+			]
+		},
+		{
+			"statename" : "Chennai",
+			"confirmed" : "1025698",
+			"recovered" : "245869",
+			"deceased" : "10565",
+			"tested" : "1205698",
+			"district" : [
+				{
+					"city" : "Alandur",
+					"confirmed" : "2000",
+					"recovered" : "1956",
+					"deaths"  : "44" 
+				},
+				{
+					"city" : "Ambattur",
+					"confirmed" : "636",
+					"recovered" : "600",
+					"deaths"  : "36" 
+				}
+			]
+		},
+		{
+			"statename" : "Gujarat",
+			"confirmed" : "896458",
+			"recovered" : "815869",
+			"deceased" : "10089",
+			"tested" : "1789658",
+			"district" : [
+				{
+					"city" : "Ahmedabad",
+					"confirmed" : "15000",
+					"recovered" : "12500",
+					"deaths"  : "2500" 
+				},
+				{
+					"city" : "Surat",
+					"confirmed" : "11590",
+					"recovered" : "10000",
+					"deaths"  : "1590" 
+				},
+				{
+					"city" : "Rajkot",
+					"confirmed" : "3656",
+					"recovered" : "3000",
+					"deaths"  : "656" 
+				}
+			]
+		},
+		{
+			"statename" : "Maharashtra",
+			"confirmed" : "1526897",
+			"recovered" : "645869",
+			"deceased" : "25000",
+			"tested" : "2012659",
+			"district" : [
+				{
+					"city" : "Mumbai",
+					"confirmed" : "25000",
+					"recovered" : "23000",
+					"deaths"  : "2000" 
+				},
+				{
+					"city" : "Nagpur",
+					"confirmed" : "8888",
+					"recovered" : "8500",
+					"deaths"  : "388" 
+				}
+			]
+		},
+		{
+			"statename" : "Delhi",
+			"confirmed" : "1489675",
+			"recovered" : "355869",
+			"deceased" : "17895",
+			"tested" : "1965896",
+			"district" : [
+				{
+					"city" : "New Delhi",
+					"confirmed" : "13000",
+					"recovered" : "12100",
+					"deaths"  : "900" 
+				},
+				{
+					"city" : "Jafrabad",
+					"confirmed" : "1080",
+					"recovered" : "1050",
+					"deaths"  : "30" 
+				}
+			]
+		}
+
+	]
 }
